@@ -1,3 +1,4 @@
 # pair-notes
 
-chapati
+Favorite food: chapati
+
