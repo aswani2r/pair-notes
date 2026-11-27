@@ -5,3 +5,4 @@ Favourite hobby: drawing
 Rule test
 Favourite hobby: hiking
 Favourite team: arsenal
+Favourite team is arsenal
